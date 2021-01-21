@@ -8,7 +8,7 @@ The world is now suffering <br> from corona virus </u>
 <br> Let us always pray for our health. <br> <br>
 
 <p align= "center">
-<img src="sun.jpg" width ="210", lenght ="210"> </img>
+<img src="C:\Users\Angel\OneDrive\Desktop\Week 3\sun.jpg" width ="210", lenght ="210"> </img>
 <br>The sunshine is so bright 
 <br>It gives hope to everyone 
 
